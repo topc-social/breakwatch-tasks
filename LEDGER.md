@@ -10,3 +10,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 2 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #1: Demo: a tested fix PR for a real Shopify app on an old API version | 6,435 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/1 |
 | 3 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #3: Write Breakwatch's YC application: company and idea answers | 20 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/3 |
 | 4 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #3: Write Breakwatch's YC application: company and idea answers | 1,980 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/3 |
+| 5 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #4: Scan 20–50 public Shopify apps on retired API versions for live breaks | 65 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/4 |
+| 6 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #4: Scan 20–50 public Shopify apps on retired API versions for live breaks | 6,435 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/4 |
