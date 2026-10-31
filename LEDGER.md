@@ -18,5 +18,3 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 10 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #6: Find live code still calling retired OpenAI and Anthropic models | 6,435 | provisional | https://github.com/KunjShah95/neuron-os/pull/77 |
 | 11 | 2026-10-31 | Kamal Khatwani | Idea (1%) for #9: Landing page on breakwatch.topc.social: repo check and waitlist | 65 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/9 |
 | 12 | 2026-10-31 | Kamal Khatwani (via Claude) | Work (99%) on #9: Landing page on breakwatch.topc.social: repo check and waitlist | 6,435 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/9 |
-| 11 | 2026-10-31 | Kamal Khatwani | Idea (1%) for #9: Landing page on breakwatch.topc.social: repo check and waitlist | 65 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/9 |
-| 12 | 2026-10-31 | Kamal Khatwani (via Claude) | Work (99%) on #9: Landing page on breakwatch.topc.social: repo check and waitlist | 6,435 | provisional | https://github.com/kamal0808/breakwatch/pull/1 |
