@@ -24,3 +24,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 16 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on #7: Fix PRs and issues for the next retired-model breaks from the scan | 1,485 | provisional | https://github.com/calderbuild/MeetSpot/pull/95 |
 | 17 | 2026-11-02 | Kamal Khatwani | Idea (1%) for #10: Fix PRs for 5 fresh retired-model issues | 8 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/10 |
 | 18 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on #10: Fix PRs for 5 fresh retired-model issues | 792 | provisional | https://github.com/HaroldPetersInskipp/node-red-contrib-chatgpt/pull/30 |
+| 19 | 2026-11-02 | Kamal Khatwani | Idea (1%) for #12: Fix PRs for 6 unreported retired-model breaks | 32 | provisional | https://github.com/topc-social/breakwatch-tasks/issues/12 |
+| 20 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on #12: Fix PRs for 6 unreported retired-model breaks | 3,168 | provisional | https://github.com/emcie-co/parlant/pull/840 |
